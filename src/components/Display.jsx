@@ -2,6 +2,7 @@ import React from 'react'
 import {Routes ,Route} from 'react-router-dom'
 import DisplayHome from './DisplayHome'
 import DisplayAlbum from './DisplayAlbum'
+// display
 
 const Display = () => {
   return (
